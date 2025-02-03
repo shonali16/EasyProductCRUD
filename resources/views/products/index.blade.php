@@ -1,6 +1,7 @@
-@extends('products.layout')
+@extends('layouts/layout')
 
 @section('content')
+
 <div class="container mt-5">
     <div class="card shadow-sm border-0 rounded" style="background-color: #f4f6f9;">
         <h2 class="card-header text-center text-white" style="background-color: #006a7b; font-weight:normal">Laravel 11 CRUD By Sonali</h2>
